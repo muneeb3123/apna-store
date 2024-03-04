@@ -1,5 +1,3 @@
-import HeroSection from './Component/Herosection.jsx';
-
 function App() {
   return (
     <>
