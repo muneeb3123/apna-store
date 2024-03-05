@@ -1,7 +1,9 @@
+import { Productslider } from "./Component/Productslider";
+
 function App() {
   return (
     <>
-      <h1>Apna Store</h1>
+      <Productslider/>
       </>
   )
 }
