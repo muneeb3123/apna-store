@@ -1,9 +1,11 @@
+import { Crazy } from "./Component/Cazydeal/crazy";
+
 function App() {
   return (
     <>
-      <h1>Apna Store</h1>
-      </>
-  )
+      <Crazy />
+    </>
+  );
 }
 
-export default App
+export default App;
