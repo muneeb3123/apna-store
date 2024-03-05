@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 
 const Navbar = () => {
   return (
-    <header>
+    <header className='flex text-red'>
       <img src={logo} alt="Elo" />
       <nav>
         <NavLink to='#'>Weekly Deals</NavLink>
