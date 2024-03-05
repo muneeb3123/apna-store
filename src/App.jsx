@@ -1,9 +1,7 @@
-import Navbar from "./Component/Navbar/Navbar"
-
 function App() {
   return (
     <>
-      <Navbar />
+    <h1>Apna Store</h1>
       </>
   )
 }
