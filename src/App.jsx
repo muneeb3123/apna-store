@@ -1,7 +1,11 @@
+import Herosection from "./Component/HeroSection/Herosection"
+import Navbar from "./Component/Navbar/Navbar"
+
 function App() {
   return (
     <>
-    <h1>Apna Store</h1>
+    <Navbar />
+    <Herosection/>
       </>
   )
 }
