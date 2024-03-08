@@ -1,9 +1,0 @@
-(function () {
-    var s = document.createElement('SCRIPT');
-    s.src = 'https://replayapp.io/js/camera-2463e43c50.js';
-    s.type = 'text/javascript'; 
-    s.setAttribute('data-main', '__SREC__');
-    s.async = 1;
-    var a = document.getElementsByTagName('SCRIPT')[0];
-    a.parentNode.insertBefore(s, a);
-}());
