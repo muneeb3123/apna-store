@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <header className='flex px-52 py-4 items-center gap-12'>
       <img src={logo} alt="Elo" />
-      <nav className='mr-40'>
+      <nav className='mr-4'>
         <NavLink className='mr-12 "text-gray' to='#'>Weekly Deals</NavLink>
         <NavLink className='mr-12 "text-gray' to='#'>New Arrivals</NavLink>
         <NavLink className='mr-12 "text-gray' to='#'>Basics</NavLink>
