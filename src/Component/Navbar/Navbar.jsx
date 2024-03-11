@@ -16,7 +16,7 @@ const Navbar = () => {
         <NavLink className='mr-16 "text-gray' to='#'>Minor Fault</NavLink>
         <NavLink className='mr-16 "text-gray' to='#'>Clearance</NavLink>
       </nav>
-      <div className="text-2xl flex gap-12">
+      <div className="text-4xl flex gap-12">
       <i className='bx bx-search-alt-2' ></i>
       <i className='bx bx-user ' ></i>
       <i className='bx bx-shopping-bag' ></i>
