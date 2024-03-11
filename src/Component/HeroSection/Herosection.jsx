@@ -20,10 +20,10 @@ const Herosection = () => {
         pagination={ {clickable:true} }
         modules={[Pagination,Navigation, Autoplay]}
         >
-        <SwiperSlide ><img className='w-screen h-[65vh]' src={asa} alt="asa" /></SwiperSlide>
-        <SwiperSlide ><img className='w-screen h-[65vh]' src={asa} alt="asa" /></SwiperSlide>
-        <SwiperSlide ><img className='w-screen h-[65vh]' src={asa} alt="asa" /></SwiperSlide>
-        <SwiperSlide ><img className='w-screen h-[65vh]' src={asa} alt="asa" /></SwiperSlide>
+        <SwiperSlide ><img className='w-screen h-[60vh]' src={asa} alt="asa" /></SwiperSlide>
+        <SwiperSlide ><img className='w-screen h-[60vh]' src={asa} alt="asa" /></SwiperSlide>
+        <SwiperSlide ><img className='w-screen h-[60vh]' src={asa} alt="asa" /></SwiperSlide>
+        <SwiperSlide ><img className='w-screen h-[60vh]' src={asa} alt="asa" /></SwiperSlide>
 
         </Swiper>
     </div>
