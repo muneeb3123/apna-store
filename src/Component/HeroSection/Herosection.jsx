@@ -24,7 +24,8 @@ const Herosection = () => {
         <SwiperSlide ><img className='w-screen h-[60vh]' src={asa} alt="asa" /></SwiperSlide>
         <SwiperSlide ><img className='w-screen h-[60vh]' src={asa} alt="asa" /></SwiperSlide>
         <SwiperSlide ><img className='w-screen h-[60vh]' src={asa} alt="asa" /></SwiperSlide>
-
+        <SwiperSlide ><img className='w-screen h-[60vh]' src={asa} alt="asa" /></SwiperSlide>
+        <SwiperSlide ><img className='w-screen h-[60vh]' src={asa} alt="asa" /></SwiperSlide>
         </Swiper>
     </div>
   )
