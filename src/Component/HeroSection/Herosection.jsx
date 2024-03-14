@@ -11,10 +11,10 @@ const Herosection = () => {
     <div>
         <Swiper
         slidesPerView={1}
-        effect='fade'
+        effect='fade-out'
         navigation={true}
         autoplay={{
-            delay: 2500,
+            delay: 3500,
             disableOnInteraction: false,
           }}
         pagination={ {clickable:true} }
