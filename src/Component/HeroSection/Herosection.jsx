@@ -11,7 +11,7 @@ const Herosection = () => {
     <div>
         <Swiper
         slidesPerView={1}
-        effect='fade'
+        effect='fade-out'
         navigation={true}
         autoplay={{
             delay: 3500,
