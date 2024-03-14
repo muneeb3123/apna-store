@@ -1,11 +1,11 @@
-import Herosection from "./Component/HeroSection/Herosection"
-import Navbar from "./Component/Navbar/Navbar"
+import { Productslider } from "./Component/Productslider";
+import { Footer } from "./Component/footer/Footer";
 
 function App() {
   return (
     <>
-    <Navbar />
-    <Herosection/>
+      <Productslider/>
+      <Footer />
       </>
   )
 }
