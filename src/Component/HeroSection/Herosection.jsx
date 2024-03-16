@@ -15,7 +15,7 @@ const Herosection = () => {
         navigation={true}
         autoplay={{
             delay: 3700,
-            disableOnInteraction: false,
+            disableOnInteraction: true,
           }}
         pagination={ {clickable:true} }
         modules={[Pagination,Navigation, Autoplay]}
