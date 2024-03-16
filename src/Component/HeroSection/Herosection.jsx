@@ -15,9 +15,9 @@ const Herosection = () => {
         navigation={true}
         autoplay={{
             delay: 3700,
-            disableOnInteraction: false,
+            disableOnInteraction: true,
           }}
-        pagination={ {clickable:true} }
+        pagination={ {clickable:false} }
         modules={[Pagination,Navigation, Autoplay]}
         >
         <SwiperSlide ><img className='w-screen h-[68vh]' src={asa} alt="asa" /></SwiperSlide>
